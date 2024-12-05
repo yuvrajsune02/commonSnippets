@@ -1,0 +1,28 @@
+Expressjs schema validation Library
+
+1. https://joi.dev/
+2. https://www.npmjs.com/package/fastest-validator
+
+Drag and Drop in react
+
+1. https://docs.dndkit.com/
+
+React PDF generation and Exceljs
+
+1. Exceljs
+2. https://react-pdf.org/
+
+Form validation library
+
+1. yup
+2. zod
+
+Form handling library
+
+1. Formik
+2. React Hook Form
+
+Rich text editor
+
+1.react-draft-wysiwyg
+2 CK editor
